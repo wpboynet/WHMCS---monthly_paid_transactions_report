@@ -10,3 +10,6 @@ Reports >> View ALL >> pada bagian bawah sendiri dengan nama report Monthly Paid
 Fitur 
 - melihat detail transaksi dengan status paid
 - export ke excel
+
+Screenshoot
+- https://imgur.com/a/whmcs-monthly-paid-report-menu-WZ5yzC7
